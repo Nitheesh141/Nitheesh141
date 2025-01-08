@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Nitheesh141/Nitheesh141/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Nitheesh141/Nitheesh141/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/Nitheesh141/Nitheesh141/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Nitheesh141/Nitheesh141/tree/master/0093-restore-ip-addresses) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nitheesh141/Nitheesh141/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Nitheesh141/Nitheesh141/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
