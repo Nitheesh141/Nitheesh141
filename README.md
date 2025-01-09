@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nitheesh141/Nitheesh141/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/Nitheesh141/Nitheesh141/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Nitheesh141/Nitheesh141/tree/master/0093-restore-ip-addresses) |
+| [0763-special-binary-string](https://github.com/Nitheesh141/Nitheesh141/tree/master/0763-special-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Nitheesh141/Nitheesh141/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Nitheesh141/Nitheesh141/tree/master/0093-restore-ip-addresses) |
+## Recursion
+|  |
+| ------- |
+| [0763-special-binary-string](https://github.com/Nitheesh141/Nitheesh141/tree/master/0763-special-binary-string) |
 <!---LeetCode Topics End-->
