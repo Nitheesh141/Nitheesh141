@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Nitheesh141/Nitheesh141/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/Nitheesh141/Nitheesh141/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Nitheesh141/Nitheesh141/tree/master/0763-special-binary-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Nitheesh141/Nitheesh141/tree/master/1078-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nitheesh141/Nitheesh141/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Nitheesh141/Nitheesh141/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
